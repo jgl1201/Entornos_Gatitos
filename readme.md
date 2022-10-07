@@ -42,7 +42,7 @@ Visítalo en GitHub @kant003 , síguelo y dale 🌟.
 
 | Raza | Tamaño | Peso | Duración |
 | :---- | :----: | :--: | -------: | 
-| Azul Hermoso | 30 cm | 2-5 kg | 12-16 años|
+| Azul Ruso | 30 cm | 2-5 kg | 12-16 años|
 | Birmano | 25-35 cm | 3-6 kg | 10-14 años |
 | Naranja | 25-40 cm | 3-7 kg | 12-15 años |
 
